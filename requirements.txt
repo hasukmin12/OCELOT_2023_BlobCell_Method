@@ -1,0 +1,16 @@
+batchgenerators==0.23
+MedPy==0.4.0
+monai==0.9.0
+# monai.egg==info
+nibabel==3.2.2
+numpy==1.22.2
+pandas==1.3.5
+PyYAML==6.0
+SimpleITK==2.1.1.2
+# torch==1.11.0a0+17540c5
+tqdm==4.62.3
+wandb==0.12.16
+segmentation-models-pytorch
+scikit-image
+opencv-python
+matplotlib

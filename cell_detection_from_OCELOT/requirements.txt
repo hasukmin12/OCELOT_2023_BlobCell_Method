@@ -1,0 +1,15 @@
+numpy==1.22.3
+pillow==9.4.0
+opencv-python==4.6.0.66
+scikit-image==0.19.3
+scikit-learn==1.1.1
+segmentation-models-pytorch==0.3.2
+tifffile==2021.11.2
+monai==0.9.0
+
+urllib3==1.25.11
+torchvision>=0.5.0
+pretrainedmodels==0.7.4
+efficientnet-pytorch==0.7.1
+timm
+requests

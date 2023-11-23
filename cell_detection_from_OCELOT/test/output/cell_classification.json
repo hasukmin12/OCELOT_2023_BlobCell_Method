@@ -1,0 +1,1692 @@
+{
+    "type": "Multiple points",
+    "points": [
+        {
+            "name": "image_0",
+            "point": [
+                751,
+                279,
+                2
+            ],
+            "probability": 0.9986357092857361
+        },
+        {
+            "name": "image_0",
+            "point": [
+                718,
+                249,
+                2
+            ],
+            "probability": 0.9986372590065002
+        },
+        {
+            "name": "image_0",
+            "point": [
+                364,
+                322,
+                2
+            ],
+            "probability": 0.9977414608001709
+        },
+        {
+            "name": "image_0",
+            "point": [
+                304,
+                720,
+                2
+            ],
+            "probability": 0.9965755343437195
+        },
+        {
+            "name": "image_0",
+            "point": [
+                608,
+                426,
+                2
+            ],
+            "probability": 0.9964587092399597
+        },
+        {
+            "name": "image_0",
+            "point": [
+                627,
+                280,
+                2
+            ],
+            "probability": 0.9965518712997437
+        },
+        {
+            "name": "image_0",
+            "point": [
+                604,
+                138,
+                2
+            ],
+            "probability": 0.996333122253418
+        },
+        {
+            "name": "image_0",
+            "point": [
+                340,
+                27,
+                1
+            ],
+            "probability": 0.9953985810279846
+        },
+        {
+            "name": "image_0",
+            "point": [
+                710,
+                637,
+                2
+            ],
+            "probability": 0.9962756633758545
+        },
+        {
+            "name": "image_0",
+            "point": [
+                367,
+                120,
+                2
+            ],
+            "probability": 0.9952036142349243
+        },
+        {
+            "name": "image_0",
+            "point": [
+                748,
+                591,
+                2
+            ],
+            "probability": 0.9961380362510681
+        },
+        {
+            "name": "image_0",
+            "point": [
+                389,
+                257,
+                2
+            ],
+            "probability": 0.9975753426551819
+        },
+        {
+            "name": "image_0",
+            "point": [
+                970,
+                322,
+                2
+            ],
+            "probability": 0.9964107871055603
+        },
+        {
+            "name": "image_0",
+            "point": [
+                580,
+                548,
+                2
+            ],
+            "probability": 0.9951573014259338
+        },
+        {
+            "name": "image_0",
+            "point": [
+                562,
+                404,
+                2
+            ],
+            "probability": 0.9951230883598328
+        },
+        {
+            "name": "image_0",
+            "point": [
+                59,
+                1005,
+                2
+            ],
+            "probability": 0.99429851770401
+        },
+        {
+            "name": "image_0",
+            "point": [
+                330,
+                405,
+                2
+            ],
+            "probability": 0.9961722493171692
+        },
+        {
+            "name": "image_0",
+            "point": [
+                295,
+                424,
+                2
+            ],
+            "probability": 0.9953773021697998
+        },
+        {
+            "name": "image_0",
+            "point": [
+                823,
+                330,
+                2
+            ],
+            "probability": 0.9949166774749756
+        },
+        {
+            "name": "image_0",
+            "point": [
+                393,
+                409,
+                2
+            ],
+            "probability": 0.9967721104621887
+        },
+        {
+            "name": "image_0",
+            "point": [
+                403,
+                202,
+                2
+            ],
+            "probability": 0.9930769205093384
+        },
+        {
+            "name": "image_0",
+            "point": [
+                346,
+                584,
+                2
+            ],
+            "probability": 0.9958615899085999
+        },
+        {
+            "name": "image_0",
+            "point": [
+                942,
+                559,
+                2
+            ],
+            "probability": 0.9946494698524475
+        },
+        {
+            "name": "image_0",
+            "point": [
+                438,
+                516,
+                2
+            ],
+            "probability": 0.994956910610199
+        },
+        {
+            "name": "image_0",
+            "point": [
+                288,
+                613,
+                2
+            ],
+            "probability": 0.9955118298530579
+        },
+        {
+            "name": "image_0",
+            "point": [
+                20,
+                161,
+                2
+            ],
+            "probability": 0.9953308701515198
+        },
+        {
+            "name": "image_0",
+            "point": [
+                46,
+                249,
+                2
+            ],
+            "probability": 0.9937082529067993
+        },
+        {
+            "name": "image_0",
+            "point": [
+                879,
+                343,
+                2
+            ],
+            "probability": 0.9951334595680237
+        },
+        {
+            "name": "image_0",
+            "point": [
+                853,
+                690,
+                2
+            ],
+            "probability": 0.990321695804596
+        },
+        {
+            "name": "image_0",
+            "point": [
+                854,
+                730,
+                2
+            ],
+            "probability": 0.9917113780975342
+        },
+        {
+            "name": "image_0",
+            "point": [
+                505,
+                71,
+                2
+            ],
+            "probability": 0.9930074214935303
+        },
+        {
+            "name": "image_0",
+            "point": [
+                996,
+                195,
+                2
+            ],
+            "probability": 0.9928182363510132
+        },
+        {
+            "name": "image_0",
+            "point": [
+                119,
+                385,
+                2
+            ],
+            "probability": 0.994533896446228
+        },
+        {
+            "name": "image_0",
+            "point": [
+                247,
+                253,
+                2
+            ],
+            "probability": 0.993346095085144
+        },
+        {
+            "name": "image_0",
+            "point": [
+                919,
+                104,
+                2
+            ],
+            "probability": 0.9913427829742432
+        },
+        {
+            "name": "image_0",
+            "point": [
+                897,
+                212,
+                2
+            ],
+            "probability": 0.9925935864448547
+        },
+        {
+            "name": "image_0",
+            "point": [
+                977,
+                124,
+                2
+            ],
+            "probability": 0.9943916201591492
+        },
+        {
+            "name": "image_0",
+            "point": [
+                793,
+                16,
+                2
+            ],
+            "probability": 0.9944610595703125
+        },
+        {
+            "name": "image_0",
+            "point": [
+                953,
+                516,
+                2
+            ],
+            "probability": 0.9936330318450928
+        },
+        {
+            "name": "image_0",
+            "point": [
+                569,
+                92,
+                2
+            ],
+            "probability": 0.9938148260116577
+        },
+        {
+            "name": "image_0",
+            "point": [
+                868,
+                484,
+                2
+            ],
+            "probability": 0.9921676516532898
+        },
+        {
+            "name": "image_0",
+            "point": [
+                216,
+                297,
+                2
+            ],
+            "probability": 0.9955314993858337
+        },
+        {
+            "name": "image_0",
+            "point": [
+                138,
+                597,
+                2
+            ],
+            "probability": 0.9916084408760071
+        },
+        {
+            "name": "image_0",
+            "point": [
+                761,
+                138,
+                2
+            ],
+            "probability": 0.9924938678741455
+        },
+        {
+            "name": "image_0",
+            "point": [
+                500,
+                120,
+                2
+            ],
+            "probability": 0.9915481209754944
+        },
+        {
+            "name": "image_0",
+            "point": [
+                860,
+                534,
+                2
+            ],
+            "probability": 0.9924678206443787
+        },
+        {
+            "name": "image_0",
+            "point": [
+                215,
+                265,
+                2
+            ],
+            "probability": 0.9945474863052368
+        },
+        {
+            "name": "image_0",
+            "point": [
+                124,
+                530,
+                2
+            ],
+            "probability": 0.9939516186714172
+        },
+        {
+            "name": "image_0",
+            "point": [
+                52,
+                526,
+                2
+            ],
+            "probability": 0.9937208890914917
+        },
+        {
+            "name": "image_0",
+            "point": [
+                155,
+                691,
+                2
+            ],
+            "probability": 0.990298330783844
+        },
+        {
+            "name": "image_0",
+            "point": [
+                743,
+                334,
+                2
+            ],
+            "probability": 0.9905827045440674
+        },
+        {
+            "name": "image_0",
+            "point": [
+                1004,
+                443,
+                2
+            ],
+            "probability": 0.9909480214118958
+        },
+        {
+            "name": "image_0",
+            "point": [
+                103,
+                681,
+                2
+            ],
+            "probability": 0.9933409094810486
+        },
+        {
+            "name": "image_0",
+            "point": [
+                987,
+                360,
+                2
+            ],
+            "probability": 0.9926082491874695
+        },
+        {
+            "name": "image_0",
+            "point": [
+                615,
+                62,
+                2
+            ],
+            "probability": 0.9920504689216614
+        },
+        {
+            "name": "image_0",
+            "point": [
+                523,
+                559,
+                2
+            ],
+            "probability": 0.9895418882369995
+        },
+        {
+            "name": "image_0",
+            "point": [
+                351,
+                442,
+                2
+            ],
+            "probability": 0.9894599914550781
+        },
+        {
+            "name": "image_0",
+            "point": [
+                440,
+                389,
+                2
+            ],
+            "probability": 0.9927656650543213
+        },
+        {
+            "name": "image_0",
+            "point": [
+                465,
+                464,
+                2
+            ],
+            "probability": 0.9897457361221313
+        },
+        {
+            "name": "image_0",
+            "point": [
+                945,
+                388,
+                2
+            ],
+            "probability": 0.99165278673172
+        },
+        {
+            "name": "image_0",
+            "point": [
+                668,
+                179,
+                2
+            ],
+            "probability": 0.9918065071105957
+        },
+        {
+            "name": "image_0",
+            "point": [
+                134,
+                343,
+                2
+            ],
+            "probability": 0.9904302954673767
+        },
+        {
+            "name": "image_0",
+            "point": [
+                56,
+                648,
+                2
+            ],
+            "probability": 0.9895911812782288
+        },
+        {
+            "name": "image_0",
+            "point": [
+                903,
+                146,
+                2
+            ],
+            "probability": 0.9892130494117737
+        },
+        {
+            "name": "image_0",
+            "point": [
+                300,
+                332,
+                2
+            ],
+            "probability": 0.9885595440864563
+        },
+        {
+            "name": "image_0",
+            "point": [
+                460,
+                607,
+                2
+            ],
+            "probability": 0.9917970895767212
+        },
+        {
+            "name": "image_0",
+            "point": [
+                13,
+                127,
+                2
+            ],
+            "probability": 0.9912530779838562
+        },
+        {
+            "name": "image_0",
+            "point": [
+                886,
+                271,
+                2
+            ],
+            "probability": 0.9886972904205322
+        },
+        {
+            "name": "image_0",
+            "point": [
+                177,
+                543,
+                2
+            ],
+            "probability": 0.9909681677818298
+        },
+        {
+            "name": "image_0",
+            "point": [
+                972,
+                466,
+                2
+            ],
+            "probability": 0.991758406162262
+        },
+        {
+            "name": "image_0",
+            "point": [
+                497,
+                479,
+                2
+            ],
+            "probability": 0.9881229996681213
+        },
+        {
+            "name": "image_0",
+            "point": [
+                201,
+                398,
+                2
+            ],
+            "probability": 0.9901840090751648
+        },
+        {
+            "name": "image_0",
+            "point": [
+                675,
+                388,
+                2
+            ],
+            "probability": 0.9861837029457092
+        },
+        {
+            "name": "image_0",
+            "point": [
+                188,
+                319,
+                2
+            ],
+            "probability": 0.9883027672767639
+        },
+        {
+            "name": "image_0",
+            "point": [
+                776,
+                625,
+                2
+            ],
+            "probability": 0.9879969954490662
+        },
+        {
+            "name": "image_0",
+            "point": [
+                224,
+                338,
+                2
+            ],
+            "probability": 0.9899703860282898
+        },
+        {
+            "name": "image_0",
+            "point": [
+                569,
+                197,
+                2
+            ],
+            "probability": 0.9913694262504578
+        },
+        {
+            "name": "image_0",
+            "point": [
+                943,
+                472,
+                2
+            ],
+            "probability": 0.9910292625427246
+        },
+        {
+            "name": "image_0",
+            "point": [
+                245,
+                206,
+                2
+            ],
+            "probability": 0.9904125332832336
+        },
+        {
+            "name": "image_0",
+            "point": [
+                846,
+                394,
+                2
+            ],
+            "probability": 0.9914926886558533
+        },
+        {
+            "name": "image_0",
+            "point": [
+                151,
+                409,
+                2
+            ],
+            "probability": 0.989867091178894
+        },
+        {
+            "name": "image_0",
+            "point": [
+                326,
+                217,
+                2
+            ],
+            "probability": 0.9914420247077942
+        },
+        {
+            "name": "image_0",
+            "point": [
+                12,
+                625,
+                2
+            ],
+            "probability": 0.9898808598518372
+        },
+        {
+            "name": "image_0",
+            "point": [
+                615,
+                218,
+                2
+            ],
+            "probability": 0.9882810711860657
+        },
+        {
+            "name": "image_0",
+            "point": [
+                154,
+                282,
+                2
+            ],
+            "probability": 0.9863443374633789
+        },
+        {
+            "name": "image_0",
+            "point": [
+                61,
+                443,
+                2
+            ],
+            "probability": 0.9874023795127869
+        },
+        {
+            "name": "image_0",
+            "point": [
+                118,
+                570,
+                2
+            ],
+            "probability": 0.9911490678787231
+        },
+        {
+            "name": "image_0",
+            "point": [
+                1013,
+                334,
+                2
+            ],
+            "probability": 0.9878318905830383
+        },
+        {
+            "name": "image_0",
+            "point": [
+                923,
+                500,
+                2
+            ],
+            "probability": 0.9905762672424316
+        },
+        {
+            "name": "image_0",
+            "point": [
+                97,
+                363,
+                2
+            ],
+            "probability": 0.989192545413971
+        },
+        {
+            "name": "image_0",
+            "point": [
+                455,
+                254,
+                2
+            ],
+            "probability": 0.9855751991271973
+        },
+        {
+            "name": "image_0",
+            "point": [
+                303,
+                270,
+                2
+            ],
+            "probability": 0.9848992824554443
+        },
+        {
+            "name": "image_0",
+            "point": [
+                763,
+                225,
+                2
+            ],
+            "probability": 0.9899237751960754
+        },
+        {
+            "name": "image_0",
+            "point": [
+                416,
+                334,
+                2
+            ],
+            "probability": 0.9835655093193054
+        },
+        {
+            "name": "image_0",
+            "point": [
+                931,
+                428,
+                2
+            ],
+            "probability": 0.9878461956977844
+        },
+        {
+            "name": "image_0",
+            "point": [
+                293,
+                200,
+                2
+            ],
+            "probability": 0.9886748790740967
+        },
+        {
+            "name": "image_0",
+            "point": [
+                231,
+                521,
+                2
+            ],
+            "probability": 0.9878764152526855
+        },
+        {
+            "name": "image_0",
+            "point": [
+                221,
+                723,
+                2
+            ],
+            "probability": 0.984207034111023
+        },
+        {
+            "name": "image_0",
+            "point": [
+                47,
+                933,
+                2
+            ],
+            "probability": 0.9829845428466797
+        },
+        {
+            "name": "image_0",
+            "point": [
+                205,
+                627,
+                2
+            ],
+            "probability": 0.9850488305091858
+        },
+        {
+            "name": "image_0",
+            "point": [
+                625,
+                467,
+                2
+            ],
+            "probability": 0.9853162169456482
+        },
+        {
+            "name": "image_0",
+            "point": [
+                107,
+                251,
+                2
+            ],
+            "probability": 0.9825692176818848
+        },
+        {
+            "name": "image_0",
+            "point": [
+                749,
+                65,
+                2
+            ],
+            "probability": 0.9864678382873535
+        },
+        {
+            "name": "image_0",
+            "point": [
+                894,
+                523,
+                2
+            ],
+            "probability": 0.9872162938117981
+        },
+        {
+            "name": "image_0",
+            "point": [
+                640,
+                115,
+                2
+            ],
+            "probability": 0.9826651811599731
+        },
+        {
+            "name": "image_0",
+            "point": [
+                398,
+                513,
+                2
+            ],
+            "probability": 0.9848073720932007
+        },
+        {
+            "name": "image_0",
+            "point": [
+                481,
+                276,
+                2
+            ],
+            "probability": 0.9810183048248291
+        },
+        {
+            "name": "image_0",
+            "point": [
+                979,
+                157,
+                2
+            ],
+            "probability": 0.9861299395561218
+        },
+        {
+            "name": "image_0",
+            "point": [
+                719,
+                143,
+                2
+            ],
+            "probability": 0.985653817653656
+        },
+        {
+            "name": "image_0",
+            "point": [
+                565,
+                340,
+                2
+            ],
+            "probability": 0.9839488863945007
+        },
+        {
+            "name": "image_0",
+            "point": [
+                851,
+                359,
+                2
+            ],
+            "probability": 0.9833402037620544
+        },
+        {
+            "name": "image_0",
+            "point": [
+                1015,
+                724,
+                2
+            ],
+            "probability": 0.97850501537323
+        },
+        {
+            "name": "image_0",
+            "point": [
+                235,
+                653,
+                2
+            ],
+            "probability": 0.9820314645767212
+        },
+        {
+            "name": "image_0",
+            "point": [
+                399,
+                685,
+                2
+            ],
+            "probability": 0.9830896854400635
+        },
+        {
+            "name": "image_0",
+            "point": [
+                744,
+                189,
+                2
+            ],
+            "probability": 0.9833084344863892
+        },
+        {
+            "name": "image_0",
+            "point": [
+                896,
+                556,
+                2
+            ],
+            "probability": 0.9831033945083618
+        },
+        {
+            "name": "image_0",
+            "point": [
+                571,
+                26,
+                2
+            ],
+            "probability": 0.9811640381813049
+        },
+        {
+            "name": "image_0",
+            "point": [
+                445,
+                430,
+                2
+            ],
+            "probability": 0.9800024032592773
+        },
+        {
+            "name": "image_0",
+            "point": [
+                120,
+                649,
+                2
+            ],
+            "probability": 0.9810777306556702
+        },
+        {
+            "name": "image_0",
+            "point": [
+                372,
+                468,
+                2
+            ],
+            "probability": 0.9829141497612
+        },
+        {
+            "name": "image_0",
+            "point": [
+                424,
+                365,
+                2
+            ],
+            "probability": 0.9796735048294067
+        },
+        {
+            "name": "image_0",
+            "point": [
+                73,
+                580,
+                2
+            ],
+            "probability": 0.9822430610656738
+        },
+        {
+            "name": "image_0",
+            "point": [
+                9,
+                429,
+                2
+            ],
+            "probability": 0.9797423481941223
+        },
+        {
+            "name": "image_0",
+            "point": [
+                188,
+                357,
+                2
+            ],
+            "probability": 0.9788965582847595
+        },
+        {
+            "name": "image_0",
+            "point": [
+                907,
+                475,
+                2
+            ],
+            "probability": 0.9801724553108215
+        },
+        {
+            "name": "image_0",
+            "point": [
+                13,
+                54,
+                2
+            ],
+            "probability": 0.9805471301078796
+        },
+        {
+            "name": "image_0",
+            "point": [
+                625,
+                364,
+                2
+            ],
+            "probability": 0.9729731678962708
+        },
+        {
+            "name": "image_0",
+            "point": [
+                60,
+                112,
+                2
+            ],
+            "probability": 0.9764096736907959
+        },
+        {
+            "name": "image_0",
+            "point": [
+                40,
+                586,
+                2
+            ],
+            "probability": 0.9816014766693115
+        },
+        {
+            "name": "image_0",
+            "point": [
+                918,
+                589,
+                2
+            ],
+            "probability": 0.9708744883537292
+        },
+        {
+            "name": "image_0",
+            "point": [
+                178,
+                602,
+                2
+            ],
+            "probability": 0.9791796803474426
+        },
+        {
+            "name": "image_0",
+            "point": [
+                67,
+                549,
+                2
+            ],
+            "probability": 0.9812322854995728
+        },
+        {
+            "name": "image_0",
+            "point": [
+                528,
+                202,
+                2
+            ],
+            "probability": 0.9680595993995667
+        },
+        {
+            "name": "image_0",
+            "point": [
+                921,
+                606,
+                2
+            ],
+            "probability": 0.9743688106536865
+        },
+        {
+            "name": "image_0",
+            "point": [
+                959,
+                72,
+                2
+            ],
+            "probability": 0.9760668277740479
+        },
+        {
+            "name": "image_0",
+            "point": [
+                909,
+                697,
+                2
+            ],
+            "probability": 0.9762676358222961
+        },
+        {
+            "name": "image_0",
+            "point": [
+                900,
+                12,
+                2
+            ],
+            "probability": 0.9764989018440247
+        },
+        {
+            "name": "image_0",
+            "point": [
+                883,
+                631,
+                1
+            ],
+            "probability": 0.972058117389679
+        },
+        {
+            "name": "image_0",
+            "point": [
+                119,
+                422,
+                2
+            ],
+            "probability": 0.9718363881111145
+        },
+        {
+            "name": "image_0",
+            "point": [
+                95,
+                636,
+                2
+            ],
+            "probability": 0.9768404960632324
+        },
+        {
+            "name": "image_0",
+            "point": [
+                1023,
+                687,
+                2
+            ],
+            "probability": 0.9642332196235657
+        },
+        {
+            "name": "image_0",
+            "point": [
+                354,
+                211,
+                2
+            ],
+            "probability": 0.9738790988922119
+        },
+        {
+            "name": "image_0",
+            "point": [
+                287,
+                384,
+                2
+            ],
+            "probability": 0.971190333366394
+        },
+        {
+            "name": "image_0",
+            "point": [
+                263,
+                597,
+                2
+            ],
+            "probability": 0.9766867160797119
+        },
+        {
+            "name": "image_0",
+            "point": [
+                170,
+                466,
+                2
+            ],
+            "probability": 0.9734165668487549
+        },
+        {
+            "name": "image_0",
+            "point": [
+                637,
+                80,
+                2
+            ],
+            "probability": 0.9774502515792847
+        },
+        {
+            "name": "image_0",
+            "point": [
+                708,
+                304,
+                2
+            ],
+            "probability": 0.9712899923324585
+        },
+        {
+            "name": "image_0",
+            "point": [
+                358,
+                528,
+                2
+            ],
+            "probability": 0.9711918234825134
+        },
+        {
+            "name": "image_0",
+            "point": [
+                37,
+                382,
+                2
+            ],
+            "probability": 0.9694681167602539
+        },
+        {
+            "name": "image_0",
+            "point": [
+                71,
+                484,
+                2
+            ],
+            "probability": 0.9694124460220337
+        },
+        {
+            "name": "image_0",
+            "point": [
+                73,
+                298,
+                2
+            ],
+            "probability": 0.9678060412406921
+        },
+        {
+            "name": "image_0",
+            "point": [
+                880,
+                304,
+                2
+            ],
+            "probability": 0.9685801267623901
+        },
+        {
+            "name": "image_0",
+            "point": [
+                1016,
+                82,
+                2
+            ],
+            "probability": 0.9640476703643799
+        },
+        {
+            "name": "image_0",
+            "point": [
+                583,
+                304,
+                2
+            ],
+            "probability": 0.9607949256896973
+        },
+        {
+            "name": "image_0",
+            "point": [
+                254,
+                374,
+                2
+            ],
+            "probability": 0.966977596282959
+        },
+        {
+            "name": "image_0",
+            "point": [
+                869,
+                456,
+                2
+            ],
+            "probability": 0.9636273384094238
+        },
+        {
+            "name": "image_0",
+            "point": [
+                63,
+                34,
+                2
+            ],
+            "probability": 0.9649774432182312
+        },
+        {
+            "name": "image_0",
+            "point": [
+                302,
+                553,
+                2
+            ],
+            "probability": 0.9602536559104919
+        },
+        {
+            "name": "image_0",
+            "point": [
+                230,
+                552,
+                2
+            ],
+            "probability": 0.9621599912643433
+        },
+        {
+            "name": "image_0",
+            "point": [
+                140,
+                443,
+                2
+            ],
+            "probability": 0.9567763209342957
+        },
+        {
+            "name": "image_0",
+            "point": [
+                180,
+                665,
+                2
+            ],
+            "probability": 0.9617816805839539
+        },
+        {
+            "name": "image_0",
+            "point": [
+                232,
+                579,
+                2
+            ],
+            "probability": 0.9571630954742432
+        },
+        {
+            "name": "image_0",
+            "point": [
+                234,
+                694,
+                2
+            ],
+            "probability": 0.9612196087837219
+        },
+        {
+            "name": "image_0",
+            "point": [
+                818,
+                203,
+                2
+            ],
+            "probability": 0.9469824433326721
+        },
+        {
+            "name": "image_0",
+            "point": [
+                532,
+                36,
+                2
+            ],
+            "probability": 0.9589119553565979
+        },
+        {
+            "name": "image_0",
+            "point": [
+                546,
+                224,
+                2
+            ],
+            "probability": 0.9515682458877563
+        },
+        {
+            "name": "image_0",
+            "point": [
+                367,
+                387,
+                2
+            ],
+            "probability": 0.9371456503868103
+        },
+        {
+            "name": "image_0",
+            "point": [
+                139,
+                179,
+                2
+            ],
+            "probability": 0.9167845249176025
+        },
+        {
+            "name": "image_0",
+            "point": [
+                855,
+                639,
+                1
+            ],
+            "probability": 0.8930243253707886
+        },
+        {
+            "name": "image_0",
+            "point": [
+                868,
+                613,
+                1
+            ],
+            "probability": 0.8742592930793762
+        },
+        {
+            "name": "image_0",
+            "point": [
+                1013,
+                397,
+                2
+            ],
+            "probability": 0.9094577431678772
+        },
+        {
+            "name": "image_0",
+            "point": [
+                27,
+                994,
+                2
+            ],
+            "probability": 0.8786972165107727
+        },
+        {
+            "name": "image_0",
+            "point": [
+                601,
+                10,
+                2
+            ],
+            "probability": 0.8961441516876221
+        },
+        {
+            "name": "image_0",
+            "point": [
+                44,
+                277,
+                2
+            ],
+            "probability": 0.887190043926239
+        },
+        {
+            "name": "image_0",
+            "point": [
+                833,
+                521,
+                2
+            ],
+            "probability": 0.872780442237854
+        },
+        {
+            "name": "image_0",
+            "point": [
+                40,
+                966,
+                2
+            ],
+            "probability": 0.8381613492965698
+        },
+        {
+            "name": "image_0",
+            "point": [
+                468,
+                346,
+                2
+            ],
+            "probability": 0.841876745223999
+        },
+        {
+            "name": "image_0",
+            "point": [
+                296,
+                478,
+                2
+            ],
+            "probability": 0.8681104779243469
+        },
+        {
+            "name": "image_0",
+            "point": [
+                636,
+                440,
+                2
+            ],
+            "probability": 0.8561124205589294
+        },
+        {
+            "name": "image_0",
+            "point": [
+                30,
+                719,
+                2
+            ],
+            "probability": 0.8311704993247986
+        },
+        {
+            "name": "image_0",
+            "point": [
+                133,
+                318,
+                2
+            ],
+            "probability": 0.8225759863853455
+        },
+        {
+            "name": "image_0",
+            "point": [
+                10,
+                572,
+                2
+            ],
+            "probability": 0.7935570478439331
+        },
+        {
+            "name": "image_0",
+            "point": [
+                839,
+                567,
+                2
+            ],
+            "probability": 0.7969396710395813
+        },
+        {
+            "name": "image_0",
+            "point": [
+                861,
+                597,
+                2
+            ],
+            "probability": 0.5077708959579468
+        },
+        {
+            "name": "image_0",
+            "point": [
+                127,
+                132,
+                2
+            ],
+            "probability": 0.6159470677375793
+        },
+        {
+            "name": "image_0",
+            "point": [
+                962,
+                441,
+                2
+            ],
+            "probability": 0.6224623322486877
+        },
+        {
+            "name": "image_0",
+            "point": [
+                828,
+                624,
+                1
+            ],
+            "probability": 0.4971761107444763
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0
+    }
+}
